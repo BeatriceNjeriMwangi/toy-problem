@@ -2,7 +2,7 @@
 JavaScript Console Application That Extracts a Name From an Email, OCTOBER 06 2023
   By Beatrice Njeri
 Description
-This is a simple JavaScript console application that allows a user to enter an email in the format firstName.lastName@emailDomain.com and extract the first and last name. For example "john.doe@email.com" will output "John Doe".
+This is a simple JavaScript console application that allows a user to required inputs for output to be logged out on the terminal.
 
 How to Use
 Requirements
